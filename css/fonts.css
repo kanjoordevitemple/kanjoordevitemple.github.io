@@ -1,0 +1,23 @@
+@font-face {
+	font-family: 'Meera';
+	src: url(../fonts/Meera-Regular.woff2?v=7.0) format('woff2'), url(../fonts/Meera-Regular.woff?v=7.0) format('woff'), url(../fonts/Meera-Regular.ttf?v=7.0) format('truetype');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+0D01-0D7F, U+200C-U+200D, U+25CC;
+}
+
+@font-face {
+	font-family: 'Uroob';
+	src: url(../fonts/Uroob-Regular.woff2?v=2.0) format('woff2'), url(../fonts/Uroob-Regular.woff?v=2.0) format('woff'), url(../fonts/Uroob-Regular.ttf?v=2.0) format('truetype');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+0D01-0D7F, U+200C-U+200D, U+25CC;
+}
+
+@font-face {
+	font-family: 'Manjari';
+	src: url(../fonts/Manjari-Regular.woff2?v=1.0) format('woff2'), url(../fonts/Manjari-Regular.woff?v=1.0) format('woff'), url(../fonts/Manjari-Regular.ttf?v=1.0) format('truetype');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+0D01-0D7F, U+200C-U+200D, U+25CC;
+}
+
+@font-face {
+	font-family: 'Karumbi';
+	src: url(../fonts/Karumbi-Regular.woff2?v=1.0) format('woff2'), url(../fonts/Karumbi-Regular.woff?v=1.0) format('woff'), url(../fonts/Karumbi-Regular.ttf?v=1.0) format('truetype');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+0D01-0D7F, U+200C-U+200D, U+25CC;
+}
